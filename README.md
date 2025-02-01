@@ -2,6 +2,8 @@
 
 **Qwen.ASPClient** is a lightweight and efficient ASP.NET wrapper for the Qwen AI API, providing seamless integration into .NET applications.
 
+![qwen asp](https://github.com/user-attachments/assets/81c2c5b0-960d-4a64-a6a4-626751c29c1f)
+
 ## Features
 - Simple and fluent API
 - Supports Dependency Injection
