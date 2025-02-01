@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>qwen.ASPClient</id>
+    <version>1.0.0</version>
+    <authors>Anwar Alhitar</authors>
+    <description>A lightweight ASP.NET wrapper for the Qwen AI API.</description>
+    <tags>Qwen AI ASP.NET HttpClient</tags>
+    <repository type="git" url="https://github.com/Anwar-alhitar/qwen.ASPClient" commit="bedad6623c5a328b1ae8ceb287d47e43e55095a6" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\EBH\source\repos\qwen.ASPClient\qwen.ASPClient\bin\Release\net8.0\qwen.ASPClient.dll" target="lib\net8.0\qwen.ASPClient.dll" />
+    <file src="C:\Users\EBH\source\repos\qwen.ASPClient\qwen.ASPClient\README.md" target="\README.md" />
+    <file src="C:\Users\EBH\source\repos\qwen.ASPClient\qwen.ASPClient\LICENSE" target="\LICENSE" />
+  </files>
+</package>

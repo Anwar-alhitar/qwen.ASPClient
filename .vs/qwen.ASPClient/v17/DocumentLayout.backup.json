@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|c:\\users\\ebh\\source\\repos\\qwen.aspclient\\qwen.aspclient\\qwen.aspclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|solutionrelative:qwen.aspclient\\qwen.aspclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|c:\\users\\ebh\\source\\repos\\qwen.aspclient\\qwen.aspclient\\qwen.aspclient.nuspec||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|solutionrelative:qwen.aspclient\\qwen.aspclient.nuspec||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|c:\\users\\ebh\\source\\repos\\qwen.aspclient\\qwen.aspclient\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|solutionrelative:qwen.aspclient\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|c:\\users\\ebh\\source\\repos\\qwen.aspclient\\qwen.aspclient\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|solutionrelative:qwen.aspclient\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|c:\\users\\ebh\\source\\repos\\qwen.aspclient\\qwen.aspclient\\qwen.aspclient.nuspec||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|solutionrelative:qwen.aspclient\\qwen.aspclient.nuspec||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|c:\\users\\ebh\\source\\repos\\qwen.aspclient\\qwen.aspclient\\license||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|solutionrelative:qwen.aspclient\\license||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|c:\\users\\ebh\\source\\repos\\qwen.aspclient\\qwen.aspclient\\qwenclient\\models\\exceptions\\qwenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|solutionrelative:qwen.aspclient\\qwenclient\\models\\exceptions\\qwenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|c:\\users\\ebh\\source\\repos\\qwen.aspclient\\qwen.aspclient\\qwenclient\\models\\request\\qwenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|solutionrelative:qwen.aspclient\\qwenclient\\models\\request\\qwenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|c:\\users\\ebh\\source\\repos\\qwen.aspclient\\qwen.aspclient\\qwenclient\\client\\iqwenclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|solutionrelative:qwen.aspclient\\qwenclient\\client\\iqwenclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|c:\\users\\ebh\\source\\repos\\qwen.aspclient\\qwen.aspclient\\qwenclient\\models\\response\\qwenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|solutionrelative:qwen.aspclient\\qwenclient\\models\\response\\qwenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|c:\\users\\ebh\\source\\repos\\qwen.aspclient\\qwen.aspclient\\qwenclient\\models\\response\\apierror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E02694-8522-4858-B745-92AD4986B74B}|qwen.ASPClient\\qwen.ASPClient.csproj|solutionrelative:qwen.aspclient\\qwenclient\\models\\response\\apierror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "qwen.ASPClient",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\qwen.ASPClient.csproj",
+              "RelativeDocumentMoniker": "qwen.ASPClient\\qwen.ASPClient.csproj",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\qwen.ASPClient.csproj",
+              "RelativeToolTip": "qwen.ASPClient\\qwen.ASPClient.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-01T13:52:00.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "qwen.ASPClient.nuspec",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\qwen.ASPClient.nuspec",
+              "RelativeDocumentMoniker": "qwen.ASPClient\\qwen.ASPClient.nuspec",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\qwen.ASPClient.nuspec",
+              "RelativeToolTip": "qwen.ASPClient\\qwen.ASPClient.nuspec",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-01T13:52:18.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\.gitignore",
+              "RelativeDocumentMoniker": "qwen.ASPClient\\.gitignore",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\.gitignore",
+              "RelativeToolTip": "qwen.ASPClient\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-01T13:43:26.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "qwen.ASPClient.nuspec",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\qwen.ASPClient.nuspec",
+              "RelativeDocumentMoniker": "qwen.ASPClient\\qwen.ASPClient.nuspec",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\qwen.ASPClient.nuspec",
+              "RelativeToolTip": "qwen.ASPClient\\qwen.ASPClient.nuspec",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-01T13:40:18.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\README.md",
+              "RelativeDocumentMoniker": "qwen.ASPClient\\README.md",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\README.md",
+              "RelativeToolTip": "qwen.ASPClient\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-01T13:37:25.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LICENSE",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\LICENSE",
+              "RelativeDocumentMoniker": "qwen.ASPClient\\LICENSE",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\LICENSE",
+              "RelativeToolTip": "qwen.ASPClient\\LICENSE",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-01T13:37:19.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IQwenClient.cs",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\QwenClient\\Client\\IQwenClient.cs",
+              "RelativeDocumentMoniker": "qwen.ASPClient\\QwenClient\\Client\\IQwenClient.cs",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\QwenClient\\Client\\IQwenClient.cs",
+              "RelativeToolTip": "qwen.ASPClient\\QwenClient\\Client\\IQwenClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:15:27.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QwenRequest.cs",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\QwenClient\\Models\\Request\\QwenRequest.cs",
+              "RelativeDocumentMoniker": "qwen.ASPClient\\QwenClient\\Models\\Request\\QwenRequest.cs",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\QwenClient\\Models\\Request\\QwenRequest.cs",
+              "RelativeToolTip": "qwen.ASPClient\\QwenClient\\Models\\Request\\QwenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:15:16.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QwenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\QwenClient\\Models\\Response\\QwenResponse.cs",
+              "RelativeDocumentMoniker": "qwen.ASPClient\\QwenClient\\Models\\Response\\QwenResponse.cs",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\QwenClient\\Models\\Response\\QwenResponse.cs",
+              "RelativeToolTip": "qwen.ASPClient\\QwenClient\\Models\\Response\\QwenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:15:04.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiError.cs",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\QwenClient\\Models\\Response\\ApiError.cs",
+              "RelativeDocumentMoniker": "qwen.ASPClient\\QwenClient\\Models\\Response\\ApiError.cs",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\QwenClient\\Models\\Response\\ApiError.cs",
+              "RelativeToolTip": "qwen.ASPClient\\QwenClient\\Models\\Response\\ApiError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:14:41.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QwenException.cs",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\QwenClient\\Models\\Exceptions\\QwenException.cs",
+              "RelativeDocumentMoniker": "qwen.ASPClient\\QwenClient\\Models\\Exceptions\\QwenException.cs",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\qwen.ASPClient\\qwen.ASPClient\\QwenClient\\Models\\Exceptions\\QwenException.cs",
+              "RelativeToolTip": "qwen.ASPClient\\QwenClient\\Models\\Exceptions\\QwenException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:14:26.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

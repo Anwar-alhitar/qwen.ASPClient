@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Target Framework -->
+    <TargetFramework>net8.0</TargetFramework>
+
+    <!-- Enable Nullable Reference Types -->
+    <Nullable>enable</Nullable>
+
+    <!-- Enable Implicit Usings -->
+    <ImplicitUsings>enable</ImplicitUsings>
+
+    <!-- Package Metadata -->
+    <AssemblyName>qwen.ASPClient</AssemblyName>
+    <RootNamespace>Qwen.ASPClient</RootNamespace>
+    <PackageId>qwen.ASPClient</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Anwar Alhitar</Authors>
+    <Description>A lightweight ASP.NET wrapper for the Qwen AI API.</Description>
+    <PackageTags>Qwen AI ASP.NET HttpClient</PackageTags>
+    <RepositoryUrl>https://github.com/Anwar-alhitar/qwen.ASPClient</RepositoryUrl>
+    <License>MIT</License>
+    <tags>qwen ai nlp aspnet</tags>
+  
+  </PropertyGroup>
+
+  <!-- Optional: Include Additional Files -->
+  <ItemGroup>
+    <None Include="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

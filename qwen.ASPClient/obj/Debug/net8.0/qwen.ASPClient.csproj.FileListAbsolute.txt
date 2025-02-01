@@ -1,0 +1,12 @@
+C:\Users\EBH\source\repos\qwen.ASPClient\qwen.ASPClient\obj\Debug\net8.0\qwen.ASPClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBH\source\repos\qwen.ASPClient\qwen.ASPClient\obj\Debug\net8.0\qwen.ASPClient.AssemblyInfoInputs.cache
+C:\Users\EBH\source\repos\qwen.ASPClient\qwen.ASPClient\obj\Debug\net8.0\qwen.ASPClient.AssemblyInfo.cs
+C:\Users\EBH\source\repos\qwen.ASPClient\qwen.ASPClient\obj\Debug\net8.0\qwen.ASPClient.csproj.CoreCompileInputs.cache
+C:\Users\EBH\source\repos\qwen.ASPClient\qwen.ASPClient\obj\Debug\net8.0\qwen.ASPClient.sourcelink.json
+C:\Users\EBH\source\repos\qwen.ASPClient\qwen.ASPClient\bin\Debug\net8.0\qwen.ASPClient.deps.json
+C:\Users\EBH\source\repos\qwen.ASPClient\qwen.ASPClient\bin\Debug\net8.0\qwen.ASPClient.dll
+C:\Users\EBH\source\repos\qwen.ASPClient\qwen.ASPClient\bin\Debug\net8.0\qwen.ASPClient.pdb
+C:\Users\EBH\source\repos\qwen.ASPClient\qwen.ASPClient\obj\Debug\net8.0\qwen.ASPClient.dll
+C:\Users\EBH\source\repos\qwen.ASPClient\qwen.ASPClient\obj\Debug\net8.0\refint\qwen.ASPClient.dll
+C:\Users\EBH\source\repos\qwen.ASPClient\qwen.ASPClient\obj\Debug\net8.0\qwen.ASPClient.pdb
+C:\Users\EBH\source\repos\qwen.ASPClient\qwen.ASPClient\obj\Debug\net8.0\ref\qwen.ASPClient.dll

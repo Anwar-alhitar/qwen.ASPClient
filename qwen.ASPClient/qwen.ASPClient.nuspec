@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Qwen.ASPClient</id>
+    <version>1.0.0</version>
+    <authors>Anwar Alhitar</authors>
+    <owners>Anwar Alhitar</owners>
+    <description>Qwen.ASPClient is a lightweight and efficient ASP.NET wrapper for the Qwen AI API, providing seamless integration into .NET applications.</description>
+    <projectUrl>https://github.com/Anwar-alhitar/qwen.ASPClient/</projectUrl>
+    <license type="expression">MIT</license>
+    <tags>qwen ai nlp aspnet</tags>
+    <dependencies>
+      <group targetFramework="netstandard2.0">
+        <dependency id="System.Text.Json" version="6.0.0" />
+      </group>
+    </dependencies>
+  <license type="file">LICENSE</license>
+  </metadata>
+</package>
