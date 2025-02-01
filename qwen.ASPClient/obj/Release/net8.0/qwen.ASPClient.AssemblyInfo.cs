@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A lightweight ASP.NET wrapper for the Qwen AI API.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bedad6623c5a328b1ae8ceb287d47e43e55095a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64588503fdfefbef174f95a1234333020c71191d")]
 [assembly: System.Reflection.AssemblyProductAttribute("qwen.ASPClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("qwen.ASPClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
